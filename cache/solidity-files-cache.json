@@ -1,0 +1,42 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\91810\\Desktop\\Prodigal\\Solidity\\Funding Dao\\contracts\\FundingDao.sol": {
+      "lastModificationDate": 1658929375579,
+      "contentHash": "b052d1a74f9993088e92932a3757020f",
+      "sourceName": "contracts/FundingDao.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "devdoc",
+                "userdoc"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "FundingDAO"
+      ]
+    }
+  }
+}

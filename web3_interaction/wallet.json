@@ -1,0 +1,13 @@
+{
+    "account1": {
+        "address": "0xDD68f5fF62682582496836929cDf299258835b45",
+        "private_key": "9c5f9f031a8ada0676dc10ce703c771abe2b40fc118b6c17f3de6a3a2d33b774",
+        "mnemonic": ""
+    },
+    "account2": {
+        "address": "",
+        "private_key": "",
+        "mnemonic": ""
+    }
+
+}
